@@ -153,14 +153,14 @@ inactiveCustomer.PrintCustomerInfo();
 
 
 
-
-public class customer2
-{
-    public Customer2(string name2, Gender gender2, string purchases2, DateTime.month lastpurchasedate)
-    {
-        Name2 = name2;
-        Gender2 = gender2;
-        Purchases2 = purchases2;
-        LastPurchaseDate = lastpurchasedate
-    }
-}
+// Random
+//public class customer2
+//{
+//    public Customer2(string name2, Gender gender2, string purchases2, DateTime.month lastpurchasedate)
+//    {
+//        Name2 = name2;
+//        Gender2 = gender2;
+//        Purchases2 = purchases2;
+//        LastPurchaseDate = lastpurchasedate
+//    }
+//}
